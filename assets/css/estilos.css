@@ -2,6 +2,18 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* cambia el color del nav de navegacion a negro */
+.bg-negro {
+  background-color: #000000 !important;
+}
+
+
+
+
+
+
+
+
 /* Hero Section */
 
 #Hero-Section {
